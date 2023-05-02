@@ -21,7 +21,7 @@ https://medium.com/@eparedes90/key-findings-of-non-traditional-peruvian-exports-
 
 # Content
 1. clean tables
- * df_db : clean table for elaborating the dashboard
+ * df_db : clean data for elaborating the dashboard
  * product_name: table to map the names with the product codes
 2. dashboard
  * dashboard.pbix: dashboard in Power Bi
@@ -30,5 +30,5 @@ https://medium.com/@eparedes90/key-findings-of-non-traditional-peruvian-exports-
 4. plots : carpet with all the images used in the blog in medium
 5. chromedriver.exe : application for webscraping with Selenium library
 6. clean01.ipynb : Jupyer notebook file with each of the steps for data wrangling, data visualization anda data analysis.
-7. extract01.py : Pyhton file with web scraping procedure.
+7. extract01.py : Python file with web scraping procedure.
 
