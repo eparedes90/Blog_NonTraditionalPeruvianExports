@@ -18,12 +18,12 @@ Well-known is the boost that FTAs have given to non-traditional Peruvian exports
 
 # Content
 - clean tables
- - df_db : clean table for elaborating the dashboard
- - product_name: table to map the names with the product codes
+ * df_db : clean table for elaborating the dashboard
+ * product_name: table to map the names with the product codes
 - dashboard
- - dashboard.pbix: dashboard in Power Bi
+ * dashboard.pbix: dashboard in Power Bi
 - data extracted
- - raw_export.pkl: pickle file with the data extracted after web scraping
+ * raw_export.pkl: pickle file with the data extracted after web scraping
 - plots : carpet with all the images used in the blog in medium
 - chromedriver.exe : application for webscraping with Selenium library
 - clean01.ipynb : Jupyer notebook file with each of the steps for data wrangling, data visualization anda data analysis.
