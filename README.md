@@ -18,7 +18,7 @@ https://medium.com/@eparedes90/key-findings-of-non-traditional-peruvian-exports-
 
 # Content
 1. clean tables
- * df_db : clean data for elaborating the dashboard
+ * df_db : cleaned data for elaborating the dashboard
  * product_name: table to map the names with the product codes
 2. dashboard
  * dashboard.pbix: dashboard in Power Bi
