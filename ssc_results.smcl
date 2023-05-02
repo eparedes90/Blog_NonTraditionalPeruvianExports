@@ -1,0 +1,120 @@
+{smcl}
+
+{txt}{net "from http://repec.org/bocode":SSC} Stata modules created or revised 2023-03-24 to 2023-04-24
+{hline}
+
+{net "describe http://repec.org/bocode/s/scatterfit":SCATTERFIT}
+{txt} module to produce scatter plots with fit lines{txt} Authors: Leo Ahrens       Req: Stata version 13.1 and gtools, ftools, palettes, colrspace, blindschemes, and labutil from SSC (q.v.)
+{txt} Revised: 2023-04-24
+
+{net "describe http://repec.org/bocode/b/bumparea":BUMPAREA}
+{txt} module to produce bump area graphs{txt} Authors: Asjad Naqvi       Req: Stata version 15 and colorpalettes, colrspace from SSC (q.v.)
+{txt} Created: 2023-04-13
+
+{net "describe http://repec.org/bocode/b/bumpline":BUMPLINE}
+{txt} module to produce bump line graphs{txt} Authors: Asjad Naqvi       Req: Stata version 15 and colorpalettes, colrspace from SSC (q.v.)
+{txt} Created: 2023-04-13
+
+{net "describe http://repec.org/bocode/e/ecic":ECIC}
+{txt} module to perform estimation and inference for changes in changes at extreme quantiles{txt} Authors: Yuya Sasaki  Yulong Wang       Req: Stata version 14.2
+{txt} Created: 2023-04-10
+
+{net "describe http://repec.org/bocode/c/chatgpt":CHATGPT}
+{txt} module to allow users to interact with ChatGPT within Stata software and receive advice about Stata{txt} Authors: Chuntao Li   Xueren Zhang       Req: Stata version 14 for Windows
+{txt} Created: 2023-04-08
+
+{net "describe http://repec.org/bocode/t/tteir":TTEIR}
+{txt} module to prepare time-to-event data for incidence rates{txt} Authors: Niels Henrik Bruun       Req: Stata version 12
+{txt} Created: 2023-05-31
+
+{net "describe http://repec.org/bocode/p/pinocchio":PINOCCHIO}
+{txt} module that randomly generates false econometric statements{txt} Authors: Marco Santacroce       Req: Stata version 11
+{txt} Created: 2023-03-30
+
+{net "describe http://repec.org/bocode/d/dgraph":DGRAPH}
+{txt} module for t test plots and tables{txt} Authors: Diego Ciccia       Req: Stata version 13
+{txt} Created: 2023-03-30
+
+{net "describe http://repec.org/bocode/a/audit_cc":AUDIT_CC}
+{txt} module for analysis of matched case-control audits of cervical cancer screening{txt} Authors: Milena Falcaro       Req: Stata version 16.1
+{txt} Revised: 2023-03-30
+
+{net "describe http://repec.org/bocode/c/cdist":CDIST}
+{txt} module for counterfactual distribution estimation and decomposition of group differences{txt} Authors: Ben Jann       Req: Stata version 14 and moremata  from SSC (q.v.)
+{txt} Revised: 2023-04-08
+
+{net "describe http://repec.org/bocode/c/chimchar":CHIMCHAR}
+{txt} module to thoroughly clean string variables{txt} Authors: Tommy Morgan       Req: Stata version 14 
+{txt} Revised: 2023-03-28
+
+{net "describe http://repec.org/bocode/s/step3":STEP3}
+{txt} module to relate latent class membership to external variables{txt} Authors: Giovanbattista Califano       Req: Stata version 15.1
+{txt} Revised: 2023-04-08
+
+{net "describe http://repec.org/bocode/u/upsetplot":UPSETPLOT}
+{txt} module to show Euler or Venn diagrams mapped to bar charts, upsetplot style{txt} Authors: Tim Morris  Nicholas J. Cox       Req: Stata version 8.2
+{txt} Revised: 2023-04-08
+
+{net "describe http://repec.org/bocode/s/sankey":SANKEY}
+{txt} module for Sankey diagrams {txt} Authors: Asjad Naqvi       Req: Stata version 15 and palettes, colrspace from SSC
+{txt} Revised: 2023-04-08
+
+{net "describe http://repec.org/bocode/a/alluvial":ALLUVIAL}
+{txt} module for Alluvial graphs{txt} Authors: Asjad Naqvi       Req: Stata version 15 and palettes, colrspace from SSC
+{txt} Revised: 2023-04-08
+
+{net "describe http://repec.org/bocode/p/prismscore":PRISMSCORE}
+{txt} module to calculate PRISM III and PRISM IV pediatric risk of mortality scores{txt} Authors: Razvan Azamfirei       Req: Stata version 12
+{txt} Revised: 2023-04-23
+
+{net "describe http://repec.org/bocode/s/stata_linter":STATA_LINTER}
+{txt} module providing a tool to detect and correct bad Stata coding practices{txt} Authors: DIME Analytics       Req: Stata version 16, Python, pandas package 
+{txt} Revised: 2023-04-08
+
+{net "describe http://repec.org/bocode/h/hktrade":HKTRADE}
+{txt} module to download historical stock transaction records for Hong Kong listed companies from Tencent.com{txt} Authors: Chuntao Li  Tianyao Luo       Req: Stata version 17
+{txt} Revised: 2023-03-28
+
+{net "describe http://repec.org/bocode/p/plottabs":PLOTTABS}
+{txt} module providing fast graphing commands for large datasets{txt} Authors: Jan Kabátek       Req: Stata version 16
+{txt} Revised: 2023-04-22
+
+{net "describe http://repec.org/bocode/b/bimap":BIMAP}
+{txt} module to produce bivariate maps{txt} Authors: Asjad Naqvi       Req: Stata version 15 and spmap, palettes, colrspace from SSC (q.v.)
+{txt} Revised: 2023-04-13
+
+{net "describe http://repec.org/bocode/r/recol":RECOL}
+{txt} module to Dynamically Resize Columns in Stata's Data Browser {txt} Authors: Tyson Van Alfen       Req: Stata version 10
+{txt} Revised: 2023-03-28
+
+{net "describe http://repec.org/bocode/f/frapply":FRAPPLY}
+{txt} module to nondestructively apply command(s) to a frame{txt} Authors: Gorkem Aksaray       Req: Stata version 16
+{txt} Revised: 2023-03-30
+
+{net "describe http://repec.org/bocode/d/did_imputation":DID_IMPUTATION}
+{txt} module to perform treatment effect estimation and pre-trend testing in event studies{txt} Authors: Kirill Borusyak       Req: Stata version 13
+{txt} Revised: 2023-04-24
+
+{net "describe http://repec.org/bocode/x/xtoos":XTOOS}
+{txt} module for evaluating the out-of-sample prediction performance of panel-data models{txt} Authors: Alfonso Ugarte Ruiz       Req: Stata version 13
+{txt} Revised: 2023-04-03
+
+{net "describe http://repec.org/bocode/m/metapreg":METAPREG}
+{txt} module to compute fixed and random effects meta-analysis and meta-regression of proportions{txt} Authors: Victoria Nyawira Nyaga       Req: Stata version 14
+{txt} Revised: 2023-03-30
+
+{net "describe http://repec.org/bocode/i/ietoolkit":IETOOLKIT}
+{txt} module providing commands specially developed for Impact Evaluations{txt} Authors: DIME Analytics       Req: Stata version 12
+{txt} Revised: 2023-04-08
+
+{net "describe http://repec.org/bocode/n/nstage":NSTAGE}
+{txt} module for multi-arm, multi-stage (MAMS) trial designs for time-to-event outcomes{txt} Authors: Patrick Royston  Daniel Bratton   Babak Choodari-Oskooei   Frederike Maria-Sophie Barthel       Req: Stata version 10
+{txt} Revised: 2023-04-08
+
+{net "describe http://repec.org/bocode/v/vorter":VORTER}
+{txt} module to reorder variables in dataset based on sorted values{txt} Authors: Daniel Klein       Req: Stata version 11.2
+{txt} Revised: 2023-03-30
+
+{hline}
+{txt} End of recent additions and updates
+
