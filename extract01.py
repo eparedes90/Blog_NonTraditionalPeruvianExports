@@ -2,7 +2,7 @@
 """
 Created on Wed Apr 19 16:54:18 2023
 
-@author: R RSTUDIO
+@author: Eduardo Paredes
 """
 
 
