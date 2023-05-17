@@ -107,5 +107,5 @@ for y in list_years:
 #concat all the tables of list_tables
 df = pd.concat(list_tables, ignore_index=True)
 
-#save as csv and pkl
+#save as pkl
 df.to_pickle("data_extracted\raw_exports.pkl")
